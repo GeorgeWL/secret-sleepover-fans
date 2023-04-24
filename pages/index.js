@@ -46,9 +46,8 @@ export default function Home() {
         </p>
         <section title="servers">
           <p>We currently host one server, just for fans to play together</p>
+          <h2 className="subheader">witches.secretsleepover.fans</h2>
           <p>
-            <b>witches.secretsleepover.fans</b>
-            <br />
             We're being witches together in the Minecraft Modpack{' '}
             <a href="https://www.curseforge.com/minecraft/modpacks/cottage-witch">
               Cottage Witch
