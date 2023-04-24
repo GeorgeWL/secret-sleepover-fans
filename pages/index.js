@@ -52,8 +52,8 @@ export default function Home() {
               <br />
               We're being witches together in the Minecraft Modpack{' '}
               <a href="https://www.curseforge.com/minecraft/modpacks/cottage-witch">
-                Cottage Witch{' '}
-              </a>
+                Cottage Witch
+              </a>{' '}
               <small>(v 1.13.2 for Minecraft Java Edition 1.19.2)</small>
             </li>
           </ul>
