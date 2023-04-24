@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/safari-pinned-tab.svg" alt="Logo" className={styles.logo} />
+        <img src="/logo.svg" alt="Logo" className={styles.logo} />
       </footer>
     </>
   );
