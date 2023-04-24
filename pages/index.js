@@ -45,18 +45,16 @@ export default function Home() {
           </a>
         </p>
         <section title="servers">
-          <p>We host some servers for games, just for fans to play together</p>
-          <ul>
-            <li>
-              <b>witches.secretsleepover.fans</b>
-              <br />
-              We're being witches together in the Minecraft Modpack{' '}
-              <a href="https://www.curseforge.com/minecraft/modpacks/cottage-witch">
-                Cottage Witch
-              </a>{' '}
-              <small>(v 1.13.2 for Minecraft Java Edition 1.19.2)</small>
-            </li>
-          </ul>
+          <p>We currently host one server, just for fans to play together</p>
+          <p>
+            <b>witches.secretsleepover.fans</b>
+            <br />
+            We're being witches together in the Minecraft Modpack{' '}
+            <a href="https://www.curseforge.com/minecraft/modpacks/cottage-witch">
+              Cottage Witch
+            </a>{' '}
+            <small>(v 1.13.2 for Minecraft Java Edition 1.19.2)</small>
+          </p>
         </section>
       </main>
 
